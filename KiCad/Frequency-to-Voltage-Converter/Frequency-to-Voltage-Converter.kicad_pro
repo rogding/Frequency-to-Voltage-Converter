@@ -416,13 +416,25 @@
         "uuid": "0f50aa69-8576-4bab-827f-c25749f7dfab"
       }
     ],
-    "used_designators": "#PWR5,#PWR7,#PWR13-16,#PWR18-33,C6-11,JP5,JP7-8,COS1,J2,R6-10",
+    "used_designators": "U1-2,U4-8,#PWR8-17,#PWR21-23,#PWR30-49,C5,C11-29,JP1,JP4,SW1-2,#FLG1-3,J3,R2-5,R7,R9-22",
     "variants": []
   },
   "sheets": [
     [
       "0f50aa69-8576-4bab-827f-c25749f7dfab",
       "Root"
+    ],
+    [
+      "f7c5c7e3-8658-4769-9878-27d057ca19c1",
+      "Power"
+    ],
+    [
+      "e4e30c77-bef2-4b13-8744-e86cc503b3b1",
+      "Prescaler"
+    ],
+    [
+      "852fb55a-58b5-496d-817c-86a979c78a69",
+      "FVC"
     ]
   ],
   "text_variables": {},
